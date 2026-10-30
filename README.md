@@ -11,7 +11,7 @@ Lớp học phần: 26C1INF50900706
 
 ## Liên kết GitHub
 Repository: https://github.com/nvdat7906/CTDLGT-Buoi03-31241028155
-Mã commit cuối cùng: c73b8ba
+Mã commit cuối cùng: 59e6512
 
 ## Cách biên dịch và chạy
 Mỗi bài là một dự án Console riêng (.NET 6 trở lên). Chạy bằng lệnh:
